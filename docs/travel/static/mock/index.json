@@ -1,0 +1,104 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+      "id": 1,
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/de/df09fa61aed2d502.jpg_750x200_67472739.jpg"
+    }, {
+      "id": 2,
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1808/5e/514ce60160e62602.jpg_750x200_9b0074e2.jpg"
+    }, {
+      "id": 3,
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1807/66/e5a5cec881702f02.jpg_750x200_67bb5691.jpg"
+    }],
+    "iconList": [
+      {
+        "title": "景点门票",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png"
+      },
+      {
+        "title": "一日游",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png"
+      },
+      {
+        "title": "本地玩乐",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/f5/a963333e1fa802.png"
+      },
+      {
+        "title": "动植物园",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png"
+      },
+      {
+        "title": "必游榜单",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png"
+      },
+      {
+        "title": "自然风光",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/96/c70f1e85ae4a4f02.png"
+      },
+      {
+        "title": "海滨海岛",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/27/dac2bcf9added702.png"
+      },
+      {
+        "title": "踏青赏花",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/bd/9f7b9b2b60c1502.png"
+      },
+      {
+        "title": "城市观光",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png"
+      },
+      {
+        "title": "全部玩乐",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png"
+      }
+    ],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1607/7c/7cda8b6782dabd80b4.img.jpg_200x200_2039e660.jpg",
+      "title": "上海迪士尼乐园",
+      "content": "上海市浦东新区川沙新镇上海迪士尼度假区内"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1502/ba/ba5f873a22327e0f.water.jpg_200x200_9bf5cc14.jpg",
+      "title": "上海影视乐园",
+      "content": "上海市松江区车墩镇北松公路4915号"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/tuan/team2/1507/2c/83e0e0e7ae082a.jpg_110x110_24c155d5.jpg",
+      "title": "东方明珠",
+      "content": "上海市浦东新区世纪大道1号"
+    }, {
+      "id": 2,
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/17/170481fb9caf500790.water.jpg_200x200_a32b9a92.jpg",
+      "title": "上海野生动物园",
+      "content": "上海浦东南汇区南六公路178号"
+    }],
+    "topIcon": [
+      "http://img1.qunarzz.com/piao/fusion/1710/ab/159673b63e6ca702.png",
+      "http://img1.qunarzz.com/piao/fusion/1710/2d/36d0c4adaebbbc02.png",
+      "http://img1.qunarzz.com/piao/fusion/1710/67/edc47ffef9e96b02.png"
+    ],
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/7d/df6ff468331c43.jpg_r_640x214_1f3783d0.jpg",
+      "title": "上海必游top10",
+      "content": "中西合璧，现代和传统各有各的精彩"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1511/1d/fe098e8cfec117.jpg_r_640x214_a9be292a.jpg",
+      "title": "上海城市观光",
+      "content": "来这里寻找你所认识的上海"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/7b/2a6b0ce087f0e5.jpg_r_640x214_5c76b115.jpg",
+      "title": "情迷博物馆",
+      "content": "穿梭时光岁月寻找答案"
+    }, {
+      "id": 4,
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/b7/2f4621a3a4e12c.jpg_r_640x214_d55c10ba.jpg",
+      "title": "学生最爱TOP10",
+      "content": "学习之余最爱玩耍，爱玩的你不可错过"
+    }]
+  }
+}
